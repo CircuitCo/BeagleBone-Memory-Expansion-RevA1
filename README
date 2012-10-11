@@ -1,0 +1,1 @@
+The BeagleBone Memory Expansion Cape provides BeagleBone the ability to add additional external memory devices. The External memory devices are interfaced via the general purpose memory controller (GPMC) on the AM335x. Supported memory devices include NOR flash, NAND flash, or other memory devices that are asynchronous, synchronous, 8-bit or 16-bit.
